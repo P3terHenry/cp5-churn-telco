@@ -1,0 +1,6 @@
+indice,caso,genero,idoso,tem_conjuge,tem_dependentes,meses_como_cliente,telefone,multiplas_linhas,internet,seguranca_online,backup_online,protecao_dispositivo,suporte_tecnico,streaming_tv,streaming_filmes,contrato,fatura_digital,forma_pagamento,valor_mensal,valor_total,y_real,probabilidade,y_previsto
+3380,cancelamento previsto com mais segurança,Masculino,1,Sim,Não,1,Sim,Sim,Fibra óptica,Não,Não,Não,Não,Sim,Sim,Mensal,Sim,Cheque eletrônico,95.1,95.1,1,0.90166533,1
+5613,permanência prevista com mais segurança,Feminino,0,Sim,Sim,72,Sim,Sim,DSL,Sim,Sim,Sim,Sim,Não,Não,Bienal,Sim,Transferência bancária (automática),70.45,5165.7,0,0.006436523,0
+1114,"caso de fronteira (probabilidade perto de 0,5)",Masculino,0,Sim,Não,32,Sim,Sim,Fibra óptica,Não,Sim,Não,Não,Sim,Sim,Mensal,Sim,Cartão de crédito (automático),98.85,3145.9,0,0.500929,1
+4513,cancelamento que o modelo não previu,Feminino,1,Sim,Sim,72,Sim,Sim,DSL,Sim,Sim,Sim,Sim,Sim,Sim,Bienal,Não,Cartão de crédito (automático),92.45,6440.25,1,0.009365335,0
+5905,permanência prevista como cancelamento,Masculino,0,Não,Não,1,Sim,Não,Fibra óptica,Não,Sim,Não,Não,Não,Sim,Mensal,Sim,Cheque eletrônico,85.0,85.0,0,0.8348354,1
