@@ -13,7 +13,7 @@ Comparação de Random Forest, XGBoost e LightGBM sob um mesmo protocolo experim
 ## Links
 
 - **Repositório GitHub:** <https://github.com/P3terHenry/cp5-churn-telco>
-- **Aplicação Streamlit:** _a preencher_
+- **Aplicação Streamlit:** <https://cp5-churn-telco.streamlit.app/>
 
 ## Problema
 
